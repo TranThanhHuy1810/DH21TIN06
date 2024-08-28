@@ -1,0 +1,2 @@
+int nhapdai a,b,c;
+scanf("%d",&a,&b,&c) // dung
