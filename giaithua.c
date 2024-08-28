@@ -4,4 +4,4 @@ for(int i=1;i<=n;i++){
 t*=i;}
 return t;
 }
-int giaithua(int x){}
+int giaithua(int x){};
