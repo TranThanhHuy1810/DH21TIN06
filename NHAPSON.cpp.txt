@@ -1,0 +1,2 @@
+int i, n;
+scanf("%f", &i); // code dung
