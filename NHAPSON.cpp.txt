@@ -1,2 +1,2 @@
 int i, n;
-printf("%f", &i); // code sai
+printf("%f", &iy); // code sai
