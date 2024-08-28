@@ -1,4 +1,4 @@
 # Hello, Tôi tên là Hào
 *DH21Tin06*
 
-![alt](https://images2.thanhnien.vn/528068263637045248/2024/1/25/428059e47aeafb68640f168d615371dc-65a11b038315c880-1706156293087602824781.jpg)
+![alt](https://noithatbinhminh.com.vn/wp-content/uploads/2022/08/anh-dep-23.jpg)
