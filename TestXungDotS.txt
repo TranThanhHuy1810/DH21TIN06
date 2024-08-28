@@ -1,0 +1,2 @@
+int nhapdai a,b,c;
+printf("%d",&a,&b,&c) // sai
