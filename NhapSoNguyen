@@ -3,5 +3,3 @@ int Nhapsonguyen ( int a, int b)
   for (int i=1;i>=n;i++)
 }
 
-
-hello world !!!
